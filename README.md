@@ -1,44 +1,55 @@
-# 🍽️ Restaurant Operations Analysis
+ 🍽️ Restaurant Operations Analysis
 
-## 📌 Project Overview
+ 📌 Project Overview
 
-This project analyzes restaurant data using SQL to extract meaningful business insights.
+This project focuses on analyzing restaurant data using SQL to extract meaningful insights related to menu performance, customer ordering behavior, and revenue generation.
 
-## 🎯 Objectives
+The goal is to help businesses make data-driven decisions to improve efficiency and profitability.
 
-### Objective 1: Menu Analysis
+---
 
-* Total items
-* Least & most expensive dishes
-* Category-wise analysis
+ 🎯 Objectives
 
-### Objective 2: Order Analysis
+ 🔹 Objective 1: Menu Analysis
 
-* Total orders
-* Date range
-* Orders with most items
+* Analyze total number of menu items
+* Identify least and most expensive dishes
+* Perform category-wise analysis
+* Calculate average price per category
 
-### Objective 3: Business Insights
+ 🔹 Objective 2: Order Analysis
 
-* Revenue analysis
-* Top-selling items
-* Category performance
-* Daily & monthly trends
+* Determine total number of orders
+* Analyze date range of orders
+* Identify orders with the highest number of items
+* Understand ordering patterns
 
-## 🛠️ Tools Used
+ 🔹 Objective 3: Business Insights
+
+* Calculate total revenue
+* Identify top-selling and least-selling items
+* Analyze revenue by category
+* Track daily and monthly revenue trends
+* Identify high-value orders
+
+---
+
+ 🛠️ Tools & Technologies
 
 * MySQL
+* SQL (Joins, Aggregations, Subqueries)
 
-## 📊 Key Insights
+---
+
+ 📊 Key Insights
 
 * Identified top revenue-generating dishes
-* Found most popular categories
-* Analyzed customer ordering patterns
+* Found most popular menu categories
+* Highlighted underperforming items
+* Analyzed customer ordering trends
+* Provided data-driven business insights
 
-## 📁 Files Included
+---
 
-* restaurant_analysis.sql
-* screenshots
-
-
-
+ 
+Naavya Kumar
