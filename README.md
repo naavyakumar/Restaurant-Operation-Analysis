@@ -50,6 +50,3 @@ The goal is to help businesses make data-driven decisions to improve efficiency 
 * Provided data-driven business insights
 
 ---
-
- 
-Naavya Kumar
